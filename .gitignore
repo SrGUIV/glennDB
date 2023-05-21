@@ -7,3 +7,6 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+
+# Gerado pela aplicação
+DB.txt
